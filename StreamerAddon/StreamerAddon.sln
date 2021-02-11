@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamerAddon", "StreamerAddon\StreamerAddon.csproj", "{6B3E8FB8-E02F-49C7-A671-8FEC4800C4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3E8FB8-E02F-49C7-A671-8FEC4800C4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3E8FB8-E02F-49C7-A671-8FEC4800C4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3E8FB8-E02F-49C7-A671-8FEC4800C4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3E8FB8-E02F-49C7-A671-8FEC4800C4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {944B1C6C-86FF-4486-AC75-BF107303709C}
+	EndGlobalSection
+EndGlobal
